@@ -1,0 +1,14 @@
+Le TP3 est à rendre et noté.
+On peut passer le tp2 et le tp3.
+
+Résoudre les taquins 3x3 -> 10 mini.
+
+20/20 -> donne une solution meilleure que celle du professeur (OU) Excellent analyse + implémentation qui fonctionne pour tous les taquins.
+
+
+Les deux heuristiques sont implémentées.
+
+Il faut encore implémenter l'algorithme A*.
+Vérifier la lecture du fichier.
+IMplémenter l'écriture sur fichier.
+Analyser l'algo.
